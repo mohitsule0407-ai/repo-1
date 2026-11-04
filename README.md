@@ -1,2 +1,2 @@
-# first repo is build using cmd
+# first repo is build using cmd s
 
